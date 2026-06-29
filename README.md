@@ -24,7 +24,6 @@ This project demonstrates the complete Power BI workflow, including **data clean
 
 ## 📈 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
 
 ![Dashboard Preview](https://github.com/ishant-kumar-verma/Sales-Performance-Dashboard/blob/main/Sales-Performance-Dashboard/sales_daashboard.png))
 
