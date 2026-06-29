@@ -176,18 +176,6 @@ This project showcases the following Data Analytics skills:
 
 ---
 
-## 📁 Repository Structure
-
-```
-Sales-Performance-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard.png
-├── README.md
-```
-
----
 
 ## 👨‍💻 About Me
 
